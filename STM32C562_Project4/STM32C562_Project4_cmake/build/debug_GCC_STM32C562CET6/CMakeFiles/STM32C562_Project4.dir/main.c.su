@@ -1,0 +1,6 @@
+D:/STM32C562/STM32C562_Project4_cmake/stm32c5xx_drivers/hal/stm32c5xx_hal_tim.h:3626:1:hal_tim_oc_channel_to_compare_unit	32	static
+D:/STM32C562/STM32C562_Project4_cmake/main.c:52:21:TIM1_SetPSC_ARR	24	static
+D:/STM32C562/STM32C562_Project4_cmake/main.c:92:21:TIM1_SetFrequency	24	static
+D:/STM32C562/STM32C562_Project4_cmake/main.c:128:21:TIM1_SetChannelDuty	32	static
+D:/STM32C562/STM32C562_Project4_cmake/main.c:175:21:TIM1_PWM_Start_CH1_CH3	16	static
+D:/STM32C562/STM32C562_Project4_cmake/main.c:222:5:main	8	static

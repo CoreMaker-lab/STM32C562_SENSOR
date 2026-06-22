@@ -1,0 +1,21 @@
+# ninja log v5
+35	787	8038226501184152	CMakeFiles/STM32C562_Project1.dir/generated/hal/mx_gpio_default.c.obj	4850d642034e9486
+189	797	8038226501319262	CMakeFiles/STM32C562_Project1.dir/utilities/syscalls/sysmem.c.obj	ddf20be471c38e1d
+19	800	8038226501517570	CMakeFiles/STM32C562_Project1.dir/generated/hal/mx_cortex_mpu.c.obj	42f3e4772045c2fc
+104	813	8038226501435059	CMakeFiles/STM32C562_Project1.dir/user_modifiable/Device/STM32C562CET6/startup_stm32c562xx.c.obj	7cbd64444b02af1c
+46	835	8038226501619210	CMakeFiles/STM32C562_Project1.dir/generated/hal/mx_icache.c.obj	58dba837effda2b2
+12	841	8038226501939369	CMakeFiles/STM32C562_Project1.dir/generated/hal/mx_cortex_debug.c.obj	93b0cb1de7fd12a5
+27	863	8038226502119501	CMakeFiles/STM32C562_Project1.dir/generated/hal/mx_cortex_nvic.c.obj	b4dd10cb609b23b1
+168	871	8038226502190266	CMakeFiles/STM32C562_Project1.dir/utilities/syscalls/syscalls.c.obj	3e4346b3ce76b69
+84	911	8038226502589156	CMakeFiles/STM32C562_Project1.dir/generated/hal/mx_system.c.obj	e5b664b95a080978
+96	923	8038226502780843	CMakeFiles/STM32C562_Project1.dir/user_modifiable/Device/STM32C562CET6/system_stm32c5xx.c.obj	15bf0a0ad698b210
+118	933	8038226502896648	CMakeFiles/STM32C562_Project1.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_cortex.c.obj	8cf83caba47bfe3c
+127	933	8038226502896648	CMakeFiles/STM32C562_Project1.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_gpio.c.obj	81606fba0d67ff50
+55	934	8038226502909516	CMakeFiles/STM32C562_Project1.dir/generated/hal/mx_rcc.c.obj	71c081ef73cce1e1
+132	934	8038226502870915	CMakeFiles/STM32C562_Project1.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_icache.c.obj	d160f10a747b553
+113	940	8038226503025319	CMakeFiles/STM32C562_Project1.dir/stm32c5xx_drivers/hal/stm32c5xx_hal.c.obj	85b1e9bb2c499c1f
+123	960	8038226503211874	CMakeFiles/STM32C562_Project1.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_flash_itf.c.obj	93607cec1c5b6381
+138	972	8038226503320256	CMakeFiles/STM32C562_Project1.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_pwr.c.obj	700be4a04ab7f99a
+150	1229	8038226505905256	CMakeFiles/STM32C562_Project1.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_rcc.c.obj	d07979d9fd1fe556
+4	165	8038233167243668	CMakeFiles/STM32C562_Project1.dir/main.c.obj	3c78d6a313948114
+165	509	8038233170612199	STM32C562_Project1.elf	a386d6e62441dc0c
